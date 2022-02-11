@@ -1,0 +1,34 @@
+body {
+  background-color: #E3FDFD;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+hr {
+  background-color: transparent;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71C9CE;
+  border-width: 15px;
+  width: 06%;
+}
+
+h1 {
+  color: #71C9CE;
+  font-family: cursive;
+}
+
+h3 {
+  color: #71C9CE;
+  font-family: cursive;
+}
+
+.heading:hover {
+  background-color: #A6E3E9;
+}
+.dp {
+  border-radius: 50%;
+}
